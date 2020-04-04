@@ -1,0 +1,21 @@
+var classic = ["iPod","Menu"]; // Array with words for the pic
+var sound; //sound variable
+var bcg = 0; //background color
+var wht = 255;//Variable for the color white
+var numA = 60;
+var numB = 40;
+var numC = 4;
+var numD = 17;
+var numE = 385;
+var numF = 415;
+var numG = 120;
+var numH = 38;
+var numI = 200;
+var numJ = 100;
+var numK = 10;
+ var numL = 325;
+  var numM= 470;
+  var numN= 300;
+  var numO= 485
+  var numP= 500;
+  var numQ= 475;
